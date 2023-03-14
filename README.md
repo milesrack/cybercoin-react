@@ -1,2 +1,2 @@
 # cybercoin-react
-A ReactJS application for cybercoin
+A ReactJS application for cybercoin.
